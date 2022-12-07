@@ -1,0 +1,1 @@
+This is a repository for classification exercises and lessons at Codeup, San Antonio, TX, starting on 07 December 2022.
